@@ -15,7 +15,7 @@ public class move : MonoBehaviour
     }
     public void RetryGame()
     {
-        SceneManager.LoadScene("bb");
+        SceneManager.LoadScene("Mainpage");
     }
     public void QuitGame()
     {
@@ -23,7 +23,11 @@ public class move : MonoBehaviour
     }
     public void Menu()
     {
-        SceneManager.LoadScene("Button");
+        SceneManager.LoadScene("Mainpage");
+    }
+    public void Show_all()
+    {
+        SceneManager.LoadScene("Show_all");
     }
     // Start is called before the first frame update
     void Start()

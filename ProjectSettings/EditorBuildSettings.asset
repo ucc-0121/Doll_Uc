@@ -8,10 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LINE.unity
     guid: dce8fd8811c526f4694082dcb9b32d72
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Button.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/IPHONE.unity
     guid: 6eb4d745df1bca343b196285f350729b
+  - enabled: 1
+    path: Assets/Scenes/Mainpage.unity
+    guid: 952695863da1e48458a1b09642b54ba5
+  - enabled: 1
+    path: Assets/Scenes/Show_all.unity
+    guid: 1fd34eb2d7962c24fbdcdc668994f94e
   m_configObjects: {}
